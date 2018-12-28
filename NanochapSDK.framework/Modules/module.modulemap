@@ -1,0 +1,6 @@
+framework module NanochapSDK {
+  umbrella header "NanochapSDK.h"
+
+  export *
+  module * { export * }
+}
