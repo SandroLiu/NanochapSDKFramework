@@ -11,7 +11,7 @@
 @class NCBSoozeStateItem;
 
 @protocol NCBNSoozPeripheralManagerDataDelegate <NCBSecondPeripheralManagerDataDelegate>
-
+@optional
 /// 处理启动回调
 - (void)szPeripheralManager:(NCBNSoozPeripheralManager *_Nonnull)szPeripheralManager handleStartWithSucceed:(BOOL)succeed;
 
@@ -38,6 +38,9 @@
 
 /// 切换设备运行模式
 - (void)szPeripheralManager:(NCBNSoozPeripheralManager *_Nonnull )szPeripheralManager didChangeRunModeSucceed:(BOOL)succeed;
+
+/// 更新总运行时间回调
+- (void)szPeripheralManager:(NCBNSoozPeripheralManager *_Nonnull )szPeripheralManager didUpdateTotalRuntimeSucceed:(BOOL)succeed;
 @end
 
 NS_ASSUME_NONNULL_BEGIN
@@ -108,6 +111,13 @@ NS_ASSUME_NONNULL_BEGIN
  @param mode 模式1 0x01, 模式2 0x02, 模式3 0x03, 模式4 0x04
  */
 - (void)changePeripheralRunMode:(uint8_t)mode;
+
+/**
+ 更新总的运行时间
+
+ @param seconds 秒
+ */
+- (void)updateTotalRunTime:(uint16_t)seconds;
 @end
 
 NS_ASSUME_NONNULL_END

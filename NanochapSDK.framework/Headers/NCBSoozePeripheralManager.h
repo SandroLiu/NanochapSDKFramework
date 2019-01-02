@@ -121,6 +121,9 @@
 
 /// 切换设备运行模式
 - (void)szPeripheralManager:(NCBSoozePeripheralManager *_Nonnull )szPeripheralManager didChangeRunModeSucceed:(BOOL)succeed;
+
+/// 更新总运行时间回调
+- (void)szPeripheralManager:(NCBSoozePeripheralManager *_Nonnull )szPeripheralManager didUpdateTotalRuntimeSucceed:(BOOL)succeed;
 @end
 
 @interface NCBSoozePeripheralManager : NSObject
@@ -305,4 +308,11 @@
  @param mode 模式1 0x01, 模式2 0x02, 模式3 0x03, 模式4 0x04
  */
 - (void)changePeripheralRunMode:(uint8_t)mode;
+
+/**
+ 更新总的运行时间
+ 
+ @param seconds 秒
+ */
+- (void)updateTotalRunTime:(uint16_t)seconds;
 @end
