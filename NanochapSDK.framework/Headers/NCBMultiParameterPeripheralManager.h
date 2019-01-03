@@ -136,6 +136,7 @@
 
 @end
 
+NS_CLASS_DEPRECATED_IOS(2.0, 2.0, "该类已经废弃")
 @interface NCBMultiParameterPeripheralManager : NSObject
 
 /// 连接回调

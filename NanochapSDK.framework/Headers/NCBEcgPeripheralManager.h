@@ -136,6 +136,7 @@
 - (void)ecgPeripheralManager:(NCBEcgPeripheralManager *_Nonnull)ecgPeripheralManager didSetUserInfoWithState:(NCBPeripheralUserInfoSettingState)state;
 @end
 
+NS_CLASS_DEPRECATED_IOS(2.0, 2.0, "该类已经废弃，请使用 -NCBNEcgPeripheralManager")
 @interface NCBEcgPeripheralManager : NSObject
 
 /// 连接回调

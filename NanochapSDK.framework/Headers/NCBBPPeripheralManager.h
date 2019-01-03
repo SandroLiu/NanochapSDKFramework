@@ -202,6 +202,7 @@
 
 @end
 
+NS_CLASS_DEPRECATED_IOS(2.0, 2.0, "该类已经废弃，请使用 -NCBBPFirstPeripheralManager或-NCBBPSecondPeripheralManager")
 /// 血压外设管理类，非单例类
 @interface NCBBPPeripheralManager : NSObject
 
@@ -303,7 +304,7 @@
 /**
  是否有新的固件
  */
-- (void)isHaveNewFirmware:(void(^_Nullable)(BOOL isHaveNewFirmware))block NS_DEPRECATED_IOS(2_0, 6_0);
+- (void)isHaveNewFirmware:(void(^_Nullable)(BOOL isHaveNewFirmware))block NS_DEPRECATED_IOS(2_0, 2_0);
 
 /**
  *  固件更新，自动判断是否有新的固件，并且下载到指定的路径下面进行更新

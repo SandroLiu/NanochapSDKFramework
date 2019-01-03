@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/NCBBPPeripheralManager.h</key>
 		<data>
-		pyC91aWxdkwL5KVl0ALfq4UrffI=
+		pryJpca7iN6hUkZlYS/uQpRr0Dc=
 		</data>
 		<key>Headers/NCBBPSecondPeripheralManager.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/NCBEcgPeripheralManager.h</key>
 		<data>
-		xpezbyM+/wP+S/JywEFv44W6hkU=
+		pOy1QVBVQzGaeTT5K9ouMbdTJ0s=
 		</data>
 		<key>Headers/NCBFirstAdvertisementItem.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/NCBMultiParameterPeripheralManager.h</key>
 		<data>
-		LZnIXF2+b1TsDRSdQAqhYX7nQwE=
+		/p6xmAq4Tovufwkt32yTdHL+SSk=
 		</data>
 		<key>Headers/NCBMutliParameterItem.h</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/NCBSoozePeripheralManager.h</key>
 		<data>
-		9rpaYnkn7yLh6RmWy8mi0sVeJeA=
+		wpvKN6kXgZpY+2onuMLTTr4bdNs=
 		</data>
 		<key>Headers/NCBSoozeStateItem.h</key>
 		<data>
@@ -184,11 +184,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pyC91aWxdkwL5KVl0ALfq4UrffI=
+			pryJpca7iN6hUkZlYS/uQpRr0Dc=
 			</data>
 			<key>hash2</key>
 			<data>
-			p/KeCxSEY9VacXQgfsO1VKf1Ka76CjSqUdY8h976GcE=
+			UpbKJ5nBIQChzI0wD2Lqg5mJoCWuslNM8um5rIsj/74=
 			</data>
 		</dict>
 		<key>Headers/NCBBPSecondPeripheralManager.h</key>
@@ -250,11 +250,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xpezbyM+/wP+S/JywEFv44W6hkU=
+			pOy1QVBVQzGaeTT5K9ouMbdTJ0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			nMkUEpQJh7q29CiYzOnDqPZNYwTUwNiPQTmwZekHLzg=
+			yY7I8Wj+JId9vcRgkEqlz6F8kS8Y3lDxzWqxPTS/W7Q=
 			</data>
 		</dict>
 		<key>Headers/NCBFirstAdvertisementItem.h</key>
@@ -305,11 +305,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LZnIXF2+b1TsDRSdQAqhYX7nQwE=
+			/p6xmAq4Tovufwkt32yTdHL+SSk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1mWLEk0opPeUGD33zo9yuOR8pFxjORJOGE43v5rHFW0=
+			JCCxXcEMtX4uhr2Hm9TpewDLZzy8SW0MA6FEhkjny3U=
 			</data>
 		</dict>
 		<key>Headers/NCBMutliParameterItem.h</key>
@@ -437,11 +437,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9rpaYnkn7yLh6RmWy8mi0sVeJeA=
+			wpvKN6kXgZpY+2onuMLTTr4bdNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qku5LfHBQ8qAZ1ZKagkqm2crSLLRaO7QwZc+tbARvIg=
+			Nzc/suWh/JwnsEjHHVHHydQHI3vsBsgaTU7Dlr2A3Cs=
 			</data>
 		</dict>
 		<key>Headers/NCBSoozeStateItem.h</key>

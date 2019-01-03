@@ -126,6 +126,7 @@
 - (void)szPeripheralManager:(NCBSoozePeripheralManager *_Nonnull )szPeripheralManager didUpdateTotalRuntimeSucceed:(BOOL)succeed;
 @end
 
+NS_CLASS_DEPRECATED_IOS(2.0, 2.0, "该类已经废弃，请使用 -NCBNSoozPeripheralManager")
 @interface NCBSoozePeripheralManager : NSObject
 
 /// 连接回调
