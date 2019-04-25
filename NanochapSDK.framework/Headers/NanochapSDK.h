@@ -44,6 +44,8 @@ FOUNDATION_EXPORT const unsigned char NanochapSDKVersionString[];
 #import <NanochapSDK/NCBSecondPeripheralManager.h>
 #import <NanochapSDK/NCBBPFirstPeripheralManager.h>
 #import <NanochapSDK/NCBBPSecondPeripheralManager.h>
+#import <NanochapSDK/NCBPressurePeripheralManager.h>
 
 #import <NanochapSDK/NCBPeripheralDebugDelegate.h>
 #import <NanochapSDK/NCBDebugConst.h>
+#import <NanochapSDK/NCBTestManager.h>

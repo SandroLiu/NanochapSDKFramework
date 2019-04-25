@@ -70,7 +70,7 @@
 		</data>
 		<key>Headers/NCBNEcgPeripheralManager.h</key>
 		<data>
-		N8IEZgE/RAZcbWZ719npzeAR9x0=
+		oEG3XILbq7QnSwJQQvEjzDpwH3Q=
 		</data>
 		<key>Headers/NCBNSoozPeripheralManager.h</key>
 		<data>
@@ -91,6 +91,10 @@
 		<key>Headers/NCBPeripheralState.h</key>
 		<data>
 		K3wRc2aYklvXCYeh9zKFLL46ZvI=
+		</data>
+		<key>Headers/NCBPressurePeripheralManager.h</key>
+		<data>
+		PW/KyceQ8JcfUBNzy93thh6gUf0=
 		</data>
 		<key>Headers/NCBPulseView.h</key>
 		<data>
@@ -116,13 +120,17 @@
 		<data>
 		84k4UnBKwe02m14ZqTlyP1ZPcbo=
 		</data>
+		<key>Headers/NCBTestManager.h</key>
+		<data>
+		fTxqQlLwUOQcwD8d5K9Bu5B3RBg=
+		</data>
 		<key>Headers/NanochapSDK.h</key>
 		<data>
-		Aq/28MV6EA77b3xE3vxOTeBSjE0=
+		dxu65lEKxSd+v5afSXE1C9S8Ftw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kxC87jrkhUhh8nh61duJrc6MDBQ=
+		u123hBF8P2OU9LDdzQ+Ejw2/Pjo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -327,11 +335,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N8IEZgE/RAZcbWZ719npzeAR9x0=
+			oEG3XILbq7QnSwJQQvEjzDpwH3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			IEudUhTyal/1bHqffIH0db5Ukd3ks83qjmpV5mVRC0I=
+			J5Yr3cpCB+3++dA9CiQOdWLMhU/qKnMj45QBlXH8aKo=
 			</data>
 		</dict>
 		<key>Headers/NCBNSoozPeripheralManager.h</key>
@@ -387,6 +395,17 @@
 			<key>hash2</key>
 			<data>
 			h6+gj4lwEQv5yFzlNamsDxOL4RUKZLDOv8HuaSIWMz4=
+			</data>
+		</dict>
+		<key>Headers/NCBPressurePeripheralManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PW/KyceQ8JcfUBNzy93thh6gUf0=
+			</data>
+			<key>hash2</key>
+			<data>
+			DruTWBLwwkcRJOeFopE7LG+tz0r59mBryG8yL8FCdUE=
 			</data>
 		</dict>
 		<key>Headers/NCBPulseView.h</key>
@@ -455,15 +474,26 @@
 			GymSJ5l2ZhJXLTqCdsP/97lGev8q057g/ku/PVzHRb4=
 			</data>
 		</dict>
+		<key>Headers/NCBTestManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fTxqQlLwUOQcwD8d5K9Bu5B3RBg=
+			</data>
+			<key>hash2</key>
+			<data>
+			DgWXecSLe42BnguuryeTk/Gso6kNAvBBP6QroO2hwpk=
+			</data>
+		</dict>
 		<key>Headers/NanochapSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Aq/28MV6EA77b3xE3vxOTeBSjE0=
+			dxu65lEKxSd+v5afSXE1C9S8Ftw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NyZdbX8QecMU41a+dBvLucuh5zA7OemH4soTFgSHs0c=
+			MSaAWeb1O66sGE4TqXqJZfVgtuQsuXnjiJvRGpqF9RU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

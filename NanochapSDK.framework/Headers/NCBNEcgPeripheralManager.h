@@ -42,6 +42,13 @@
  *  @param item       测量值
  */
 - (void)ecgPeripheralManager:(NCBNEcgPeripheralManager *_Nonnull)ecgPeripheralManager didFetchMutliParameterMeasureItem:(NCBMutliParameterItem *_Nonnull)item waveData:(NSArray *)datas;
+
+/**
+ 数据crc校验出错
+
+ @param ecgPeripheralManager 心电外设管理对象
+ */
+- (void)ecgPeripheralDataCrcError:(NCBNEcgPeripheralManager *_Nonnull)ecgPeripheralManager;
 @end
 
 NS_ASSUME_NONNULL_BEGIN
