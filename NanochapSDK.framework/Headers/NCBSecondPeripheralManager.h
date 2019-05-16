@@ -15,8 +15,6 @@
 
 @end
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface NCBSecondPeripheralManager : NCBPeripheralManager
 
 /// 数据回调
@@ -40,5 +38,3 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)sendCmd:(uint8_t)cmd key:(uint8_t)key value:(NSData *_Nullable)value;
 #endif
 @end
-
-NS_ASSUME_NONNULL_END

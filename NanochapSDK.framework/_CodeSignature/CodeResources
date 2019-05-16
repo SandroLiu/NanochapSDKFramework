@@ -16,10 +16,6 @@
 		<data>
 		lkTJ1DD7CXqt/3N1Rh9HBsrJYAs=
 		</data>
-		<key>Headers/NCBBPPeripheralManager.h</key>
-		<data>
-		pryJpca7iN6hUkZlYS/uQpRr0Dc=
-		</data>
 		<key>Headers/NCBBPSecondPeripheralManager.h</key>
 		<data>
 		8AzueX7xFWsqjtn1yYlLCTZPdF4=
@@ -40,9 +36,9 @@
 		<data>
 		fKTj0lqddAfj71PLP+RVehs546w=
 		</data>
-		<key>Headers/NCBEcgPeripheralManager.h</key>
+		<key>Headers/NCBEPMPeripheralManager.h</key>
 		<data>
-		pOy1QVBVQzGaeTT5K9ouMbdTJ0s=
+		lVUDIS5uz3sE4YuFzWat1U9jS6c=
 		</data>
 		<key>Headers/NCBFirstAdvertisementItem.h</key>
 		<data>
@@ -60,21 +56,21 @@
 		<data>
 		2eTLdJgpVIwi9SI3RXtyFN/SzUs=
 		</data>
-		<key>Headers/NCBMultiParameterPeripheralManager.h</key>
-		<data>
-		/p6xmAq4Tovufwkt32yTdHL+SSk=
-		</data>
 		<key>Headers/NCBMutliParameterItem.h</key>
 		<data>
 		wzYpgur1y04v1SKkgZYnphEFkUE=
 		</data>
 		<key>Headers/NCBNEcgPeripheralManager.h</key>
 		<data>
-		oEG3XILbq7QnSwJQQvEjzDpwH3Q=
+		ahHNlboWzaJYAj1yjLWZHl+5bcY=
 		</data>
 		<key>Headers/NCBNSoozPeripheralManager.h</key>
 		<data>
 		NhVcz8/QV6NP0s1fi4lpJCWRrIw=
+		</data>
+		<key>Headers/NCBPWMPeripheralManager.h</key>
+		<data>
+		zXyNabcN6Bw6EpSDrPenz0vWQls=
 		</data>
 		<key>Headers/NCBPeripheralDebugDelegate.h</key>
 		<data>
@@ -82,7 +78,7 @@
 		</data>
 		<key>Headers/NCBPeripheralManager.h</key>
 		<data>
-		ayzs4Vpy1AvOZwMXvNhke7p2sU0=
+		TRrL5uU+HQcVhCRKwZbIdu7lOoo=
 		</data>
 		<key>Headers/NCBPeripheralSearchManager.h</key>
 		<data>
@@ -110,11 +106,7 @@
 		</data>
 		<key>Headers/NCBSecondPeripheralManager.h</key>
 		<data>
-		KItj4mAmn9K9TEZEjiVvHMPYUek=
-		</data>
-		<key>Headers/NCBSoozePeripheralManager.h</key>
-		<data>
-		wpvKN6kXgZpY+2onuMLTTr4bdNs=
+		XAo1enhx/XwdTtSYZdRk3E9P5Dg=
 		</data>
 		<key>Headers/NCBSoozeStateItem.h</key>
 		<data>
@@ -126,31 +118,15 @@
 		</data>
 		<key>Headers/NanochapSDK.h</key>
 		<data>
-		dxu65lEKxSd+v5afSXE1C9S8Ftw=
+		OslTC5WcgWxEReWw1Dg0QsGNI/w=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		u123hBF8P2OU9LDdzQ+Ejw2/Pjo=
+		EKCCaw8K8KW+2SER5RlbmghUX60=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		sCWsbCT+QK2CaTSYev5SZ8VgP9U=
-		</data>
-		<key>NanochapSDK-Library.xcconfig</key>
-		<data>
-		TCDaYfciVszQ5mQLlAO+3U1KZh8=
-		</data>
-		<key>NanochapSDK-Project-Debug.xcconfig</key>
-		<data>
-		qyc3314bwrtzYgKM8WExeufwANs=
-		</data>
-		<key>NanochapSDK-Project-Release.xcconfig</key>
-		<data>
-		oqMJAsf+EKL4YYOIF3BSHC+YRuY=
-		</data>
-		<key>NanochapSDK-Project.xcconfig</key>
-		<data>
-		r1FCs4Npb1FgYaNN3LN2fz3FRPE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -186,17 +162,6 @@
 			<key>hash2</key>
 			<data>
 			13IzHzKcZmxZkS123dloXqu5KpOfnlBw94+BKwnPk9E=
-			</data>
-		</dict>
-		<key>Headers/NCBBPPeripheralManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pryJpca7iN6hUkZlYS/uQpRr0Dc=
-			</data>
-			<key>hash2</key>
-			<data>
-			UpbKJ5nBIQChzI0wD2Lqg5mJoCWuslNM8um5rIsj/74=
 			</data>
 		</dict>
 		<key>Headers/NCBBPSecondPeripheralManager.h</key>
@@ -254,15 +219,15 @@
 			dgOourCa6mWzG4ioJ/fSXfYTlRZksdAxEYhSj7kFGu4=
 			</data>
 		</dict>
-		<key>Headers/NCBEcgPeripheralManager.h</key>
+		<key>Headers/NCBEPMPeripheralManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pOy1QVBVQzGaeTT5K9ouMbdTJ0s=
+			lVUDIS5uz3sE4YuFzWat1U9jS6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			yY7I8Wj+JId9vcRgkEqlz6F8kS8Y3lDxzWqxPTS/W7Q=
+			UhRoBx6aedeIIfH6rt4SsldrvXqqZicksT5XXCXw01c=
 			</data>
 		</dict>
 		<key>Headers/NCBFirstAdvertisementItem.h</key>
@@ -309,17 +274,6 @@
 			20osiE+anBuTsMIWAGPZtAtS8lZsA4ngab2g4QXAgfU=
 			</data>
 		</dict>
-		<key>Headers/NCBMultiParameterPeripheralManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/p6xmAq4Tovufwkt32yTdHL+SSk=
-			</data>
-			<key>hash2</key>
-			<data>
-			JCCxXcEMtX4uhr2Hm9TpewDLZzy8SW0MA6FEhkjny3U=
-			</data>
-		</dict>
 		<key>Headers/NCBMutliParameterItem.h</key>
 		<dict>
 			<key>hash</key>
@@ -335,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oEG3XILbq7QnSwJQQvEjzDpwH3Q=
+			ahHNlboWzaJYAj1yjLWZHl+5bcY=
 			</data>
 			<key>hash2</key>
 			<data>
-			J5Yr3cpCB+3++dA9CiQOdWLMhU/qKnMj45QBlXH8aKo=
+			aaWtJf0P2wO/zzgV8RE/u2yqMvFPZ4ebLmdzgjaz9Vo=
 			</data>
 		</dict>
 		<key>Headers/NCBNSoozPeripheralManager.h</key>
@@ -351,6 +305,17 @@
 			<key>hash2</key>
 			<data>
 			pAxejdQeH+iGtxrAlvikX9n/DuxpNL2qqLbF/Rx/tr0=
+			</data>
+		</dict>
+		<key>Headers/NCBPWMPeripheralManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zXyNabcN6Bw6EpSDrPenz0vWQls=
+			</data>
+			<key>hash2</key>
+			<data>
+			2eKlhKXyjxglRRV7F0TosZcl7CPdekduXqaboF+uo9A=
 			</data>
 		</dict>
 		<key>Headers/NCBPeripheralDebugDelegate.h</key>
@@ -368,11 +333,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ayzs4Vpy1AvOZwMXvNhke7p2sU0=
+			TRrL5uU+HQcVhCRKwZbIdu7lOoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			wssFAtnyrTFtzReXFwZ78gWGeFdSpkk+KVmoAI8dmQY=
+			B2QrDD6lb5vlG/ihqoGNH3aPjaYm/avj52BIwWYbhnE=
 			</data>
 		</dict>
 		<key>Headers/NCBPeripheralSearchManager.h</key>
@@ -445,22 +410,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KItj4mAmn9K9TEZEjiVvHMPYUek=
+			XAo1enhx/XwdTtSYZdRk3E9P5Dg=
 			</data>
 			<key>hash2</key>
 			<data>
-			jN85NbcdSXWA3EIwumPYtuHtllqV5spOD7TgqRhN5qc=
-			</data>
-		</dict>
-		<key>Headers/NCBSoozePeripheralManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wpvKN6kXgZpY+2onuMLTTr4bdNs=
-			</data>
-			<key>hash2</key>
-			<data>
-			Nzc/suWh/JwnsEjHHVHHydQHI3vsBsgaTU7Dlr2A3Cs=
+			dJpieQMIyuwhac2Z194jjjYVdcEq6YU3Ou0Yyc0BCWE=
 			</data>
 		</dict>
 		<key>Headers/NCBSoozeStateItem.h</key>
@@ -489,11 +443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dxu65lEKxSd+v5afSXE1C9S8Ftw=
+			OslTC5WcgWxEReWw1Dg0QsGNI/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			MSaAWeb1O66sGE4TqXqJZfVgtuQsuXnjiJvRGpqF9RU=
+			MYLQPVeDd7ryBAxVvBuagH04DOrB1azS5Jo3hvp6EME=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -507,54 +461,10 @@
 			7LE4NgKUtzlbQrJS7YuJ+c1sHNE3/bA3AytflKD5niw=
 			</data>
 		</dict>
-		<key>NanochapSDK-Library.xcconfig</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TCDaYfciVszQ5mQLlAO+3U1KZh8=
-			</data>
-			<key>hash2</key>
-			<data>
-			G1HEL+Bg4ofCLrcJm8+O3JX0c+cZt2Py+CVQBWcXoyA=
-			</data>
-		</dict>
-		<key>NanochapSDK-Project-Debug.xcconfig</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qyc3314bwrtzYgKM8WExeufwANs=
-			</data>
-			<key>hash2</key>
-			<data>
-			8EH3Kr4dQLRBd5vUZfRw3uaVUNoNfYIyuZt/5kClWzU=
-			</data>
-		</dict>
-		<key>NanochapSDK-Project-Release.xcconfig</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oqMJAsf+EKL4YYOIF3BSHC+YRuY=
-			</data>
-			<key>hash2</key>
-			<data>
-			tQNOZfAtsXT1wtkLfZ6gL4G9f1TMxsqo3z8JooONUzY=
-			</data>
-		</dict>
-		<key>NanochapSDK-Project.xcconfig</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			r1FCs4Npb1FgYaNN3LN2fz3FRPE=
-			</data>
-			<key>hash2</key>
-			<data>
-			ceOxgybjgZ/hx6qw6BT0SZmfLolOMOJD8Ctvfx5HwVs=
-			</data>
-		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -585,24 +495,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -638,13 +536,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

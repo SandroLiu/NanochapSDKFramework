@@ -27,6 +27,13 @@
 - (void)ecgPeripheralManagerDidEndMeasure:(NCBNEcgPeripheralManager *_Nonnull)ecgPeripheralManager;
 
 /**
+ 开始测量阻抗
+
+ @param ecgPeripheralManager 心电外设管理对象
+ */
+- (void)ecgPeripheralManagerStartImpedanceMeasure:(NCBNEcgPeripheralManager *_Nonnull)ecgPeripheralManager;
+
+/**
  心电波形返回
  
  @param ecgPeripheralManager 心电外设管理对象
@@ -50,8 +57,6 @@
  */
 - (void)ecgPeripheralDataCrcError:(NCBNEcgPeripheralManager *_Nonnull)ecgPeripheralManager;
 @end
-
-NS_ASSUME_NONNULL_BEGIN
 
 @interface NCBNEcgPeripheralManager : NCBSecondPeripheralManager
 
@@ -79,4 +84,3 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)sendUserInfoWithHeight:(uint8_t)height weight:(uint8_t)weight gender:(uint8_t)gender age:(uint8_t)age;
 @end
 
-NS_ASSUME_NONNULL_END
